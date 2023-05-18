@@ -1,0 +1,22 @@
+ ('Number of passengers: ', 1309)
+('Number of Female Passengers: ', 466)
+('Number of Male Passengers: ', 843)
+('Mean average age of passengers: ', 29.881134512434034)
+('Number of Passengers under the age of 21: ', 249)
+('Number of Passengers to survive: ', 500)
+('Number of male Passengers to survive: ', 161)
+('Number of female Passengers to survive: ', 339)
+('Yougest age to survive: ', 0.166700006, ' Name: ', 'Dean, Miss. Elizabeth Gladys M')
+('Oldest Age to survive: ', 80.0, ' Name: ', 'Barkworth, Mr. Algernon Henry W')
+('List of passengers: \n', 0         Allen, Miss. Elisabeth Walton
+1        Allison, Master. Hudson Trevor
+5                   Anderson, Mr. Harry
+6       Andrews, Miss. Kornelia Theodos
+8       Appleton, Mrs. Edward Dale (Cha
+                     ...               
+1261             Turkula, Mrs. (Hedwig)
+1277               Vartanian, Mr. David
+1286    Whabee, Mrs. George Joseph (Sha
+1290    Wilkes, Mrs. James (Ellen Needs
+1300    Yasbeck, Mrs. Antoni (Selini Al
+Name: Name, Length: 500, dtype: object)
